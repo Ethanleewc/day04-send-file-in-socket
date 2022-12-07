@@ -1,0 +1,7 @@
+hello
+world
+from
+input file.
+additional
+hooyaa
+vrooom
